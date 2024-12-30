@@ -8,7 +8,7 @@
 
 
 Awesome family related to LLMS includes:
-- https://github.com/wgwang/awesome-LLM-benchmarks
+- [https://github.com/wgwang/awesome-LLM-benchmarks](https://free-gpt.github.io/awesome-LLM-benchmarks/)
 - https://github.com/wgwang/awesome-LLMs-In-China
 - https://github.com/wgwang/awesome-open-foundation-models
 
